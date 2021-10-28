@@ -12,4 +12,4 @@ I’ve learned a lot, and discover even more by trying to educate others.  It ma
 
 Programming has always been the domain of the geek, but it shouldn’t be.  While in the past it was cryptic, it was always about problem solving, and we all use programs every day.  We just call them recipes, or blueprints, or plans.
 
-Hopefully I can use my YouTube channel, blog and this space to demystify programming, and even if one person goes “Ah”, I’ll be happy.
+Hopefully I can use my [YouTube channel](https://www.youtube.com/channel/UC3Nw7ADBfqRU7EY2Gkwp3VA), [blog](https://thepetersmith.com/blog/) and this space to demystify programming, and even if one person goes “Ah”, I’ll be happy.
