@@ -47,3 +47,9 @@ We all use programs every day. A recipe is a program, a blueprint is a program. 
 Join me here, and on YouTube as I try to help _you_ demystify coding.
 
 {% include feature_row %}
+**If you enjoy this exploration, please consider sponsoring:**
+
+Note: This is me!  I originally created the account for a local history project. No one has sponsored me there either! ;-)
+
+
+[!["Buy Me A Coffee"](/assets/images/coffee.png)](https://www.buymeacoffee.com/petersmithca)
