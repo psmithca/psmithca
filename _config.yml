@@ -28,6 +28,7 @@ url: "https://psmithca.github.io"
 baseurl: "/psmithca"
 # Build settings
 markdown: kramdown
+highlighter: rouge
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
