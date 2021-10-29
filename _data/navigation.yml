@@ -1,9 +1,25 @@
+
+main:
+  - title: "The Project"
+    url: /the-project/
 maina:
-  - title: "Posts"
-    url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "About"
     url: /about/
+
+side:
+  - title: "Project Home"
+
+  - title: "Prerequisites"
+    url: /prerequisites/
+  - title: "The Basics"
+    children:
+      - title: Sequence Selection Repetition
+        url: /basics/sequence-selection-repetition/
+      - title: Constructs
+        url: /basics/constructs/
+      - title: Objects
+        url: /basics/objects/
